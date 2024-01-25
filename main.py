@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=rIC1JEsMzu8
 from dotenv import find_dotenv, load_dotenv
 
 load_dotenv(find_dotenv())
